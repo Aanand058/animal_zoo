@@ -31,3 +31,14 @@ Finally, you'll enhance the program's interactivity by adding two new options to
 * Task 5 (Menu option for saving data): The main menu has been updated to include an option for saving the state of all animals (tiger, penguin, and dolphin) to their respective files.
 
 * Task 6 (Menu option for loading data): The main menu has been updated with an option to read and display data from the saved files (tiger.txt, penguin.txt, dolphin.txt).
+
+
+
+This course will test your understanding and implementation of Java code across one or more of the following topics:
+
+- Serialization
+- File I/O operations
+- Class design and modification
+- Menu system integration
+- Practical application of OOP concepts
+- Integration of multiple components
