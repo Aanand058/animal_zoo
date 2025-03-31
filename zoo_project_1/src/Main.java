@@ -31,7 +31,6 @@ public class Main {
                                 // Set properties
                                 System.out.println("Enter Name:");
                                 tigerObject.setNameOfAnimal(keyboard.next());
-                                System.out.println("Enter weight:");
                                 tigerObject.setWeight(keyboard.nextInt());
                                 System.out.println("Enter height:");
                                 tigerObject.setHeight(keyboard.nextInt());
